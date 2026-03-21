@@ -1,2 +1,3 @@
-# rapid-data-visualizer-04dn
-Automated issue comment bot repository
+# Rapid Data Visualizer 04Dn
+
+Automated issue comment bot repository.
